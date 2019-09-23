@@ -1,6 +1,6 @@
 # A DEM Web Application
 
-(Instructions to try to get the app running [here](./) ...)
+(Instructions to try to get the app running [here](../) ...)
 # Introduction
 
 DEM data and contained information have a wide range of applications for civil planning, agriculture (Abd Aziz 2008), military, land use (Riaño 2003), disaster planning and response (Jaboyedoff 2009, Tralli 2005), and outdoor recreation (Fredston 2000) professionals.
